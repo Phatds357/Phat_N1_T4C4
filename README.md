@@ -2,7 +2,7 @@
 <p>Crafting code to solve problems, one commit at a time 🚀 | Building projects with purpose and passion.</p>
 
 <h2>👨‍💻 About Me</h2>
-<p>Hi, I'm Nhật Phát, a passionate developer with a love for solving complex problems and creating impactful software. With a background in full-stack development, I enjoy working across the full stack and exploring the latest technologies. When I'm not coding, you'll find me [hobby or activity]!</p>
+<p>Hi, I'm Nhật Phát, a passionate developer with a love for solving complex problems and creating impactful software. With a background in full-stack development, I enjoy working across the full stack and exploring the latest technologies. When I'm not coding, you'll find me gaming!</p>
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
@@ -22,12 +22,7 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 </p>
 
-<h2>🛠️ Featured Projects</h2>
-<ul>
-  <li><a href="https://github.com/Phatds357/project-1">Project 1 - Description of what it does and tech stack</a></li>
-  <li><a href="https://github.com/Phatds357/project-2">Project 2 - Another project and its highlights</a></li>
-  <li><a href="https://github.com/Phatds357/project-3">Project 3 - Quick overview of purpose and stack</a></li>
-</ul>
+
 
 <h2>💡 Currently Exploring</h2>
 <ul>
