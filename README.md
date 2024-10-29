@@ -45,7 +45,7 @@
 </p>
 
 <h2>🌐 Let's Connect</h2>
-<p>I'm open to collaboration on exciting projects. Feel free to reach out to me on <a href="https://www.linkedin.com/in/your-linkedin">LinkedIn</a> or email me at <a href="mailto:your-email@example.com">your-email@example.com</a>.</p>
+<p>I'm open to collaboration on exciting projects. Feel free to reach out to me by email at <a href="mailto:nhatphat357@gmail.com">nhatphat357@gmail.com</a>.</p>
 
 <h2>📊 GitHub Stats</h2>
 <p><img align="center" src="https://komarev.com/ghpvc/?username=Phatds357&label=Profile%20views&color=0e75b6&style=flat" alt="Phatds357" /></p>
